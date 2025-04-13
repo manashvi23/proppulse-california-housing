@@ -25,8 +25,8 @@ We use the **California Housing Prices dataset**, which includes the following k
 - population
 - households
 - median_income
-- median_house_value  
-
+- ocean proximity
+- median_house_value
 
 Additional features are created based on combinations and transformations of the original ones to boost performance.
 
